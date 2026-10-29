@@ -1,0 +1,17 @@
+{
+  "name": "Khata — Professional Invoice Editor",
+  "short_name": "Khata",
+  "description": "Professional open-source invoice editor. Create beautiful, GST-compliant invoices in your browser.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d0d1a",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
