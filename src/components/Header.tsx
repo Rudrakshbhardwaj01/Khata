@@ -9,9 +9,7 @@ export function Header() {
 
   const navItems = [
     { label: 'Features', href: '#features' },
-    { label: 'Templates', href: '#templates' },
     { label: 'GST Support', href: '#gst-support' },
-    { label: 'About', href: '#about' },
   ];
 
   const handleNavClick = (href: string) => {
